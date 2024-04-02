@@ -1,0 +1,30 @@
+{
+    "CGI-S_PD_Psychosis_Es-US_v1.0_Build_1_Translation": [
+        "Protocolo",
+        "Número de centro",
+        "Número de selección",
+        "Número de aleatorización",
+        "Fecha de evaluación",
+        "Evaluador",
+        "Historial de firmas",
+        "Completado y firmado por",
+        "Nombre",
+        "Fecha/Hora (UTC)",
+        "Editado y firmado por",
+        "Versión",
+        "Page2",
+        "Page7",
+        "&nbsp; \nTeniendo en cuenta toda su experiencia clínica con estos individuos en particular (pacientes que padecen la enfermedad de Parkinson), ¿cómo calificaría la gravedad de la condición del paciente en este momento al evaluar sus alucinaciones e ideas delirantes?",
+        "Text1",
+        "Normal, nada enfermo",
+        "Casi a punto de que se le considere enfermo",
+        " \nTeniendo en cuenta toda su experiencia clínica con estos individuos en particular (pacientes que padecen la enfermedad de Parkinson), ¿cómo calificaría la gravedad de la condición del paciente en este momento al evaluar sus alucinaciones e ideas delirantes? ",
+        "CGI-S PD Psychosis",
+        "Levemente enfermo",
+        "Moderadamente enfermo",
+        "Notablemente enfermo",
+        "Gravemente enfermo",
+        "Entre los pacientes más extremadamente enfermos",
+        "Notas"
+    ]
+}

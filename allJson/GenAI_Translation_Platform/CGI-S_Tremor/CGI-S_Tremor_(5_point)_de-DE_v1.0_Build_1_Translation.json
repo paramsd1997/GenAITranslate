@@ -1,0 +1,28 @@
+{
+    "CGI-S_Tremor_(5_point)_de-DE_v1.0_Build_1_Translation": [
+        "Prüfplan",
+        "Nummer des Prüfzentrums",
+        "Screening-Nummer",
+        "Randomisierungsnummer",
+        "Datum der Beurteilung",
+        "Bewerter",
+        "Unterschriftenverlauf",
+        "Durchgeführt und unterzeichnet von",
+        "Name",
+        "Datum/Uhrzeit (UTC)",
+        "Bearbeitet und unterzeichnet von",
+        "Version",
+        "Page2",
+        "Page3",
+        "Grad der Funktionsfähigkeit",
+        "Richtlinien",
+        "  \nBitte wählen Sie unten die Antwort aus, die den Grad der Funktionsfähigkeit des Teilnehmers aufgrund des Tremors im Verlauf der vergangenen Woche (7 Tage) am besten beschreibt. \n ",
+        "Keine Einschränkungen",
+        "Leichte Einschränkungen ",
+        "Mäßige Einschränkungen ",
+        "Deutliche Einschränkungen",
+        "Schwerwiegende Einschränkungen",
+        "SingleChoice1",
+        "Notizen"
+    ]
+}

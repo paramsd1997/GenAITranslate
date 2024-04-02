@@ -19,7 +19,7 @@ def read_json_files(directory):
     return json_data
 
 # Usage example
-directory_path = 'C:/Users/jaipreet.singh/Downloads/Forms/'
+directory_path = '/home/ubuntu/GenAItranslate/allJson/GenAI_Translation_Platform'
 json_data = read_json_files(directory_path)
 dump_data = {}
 for data in json_data:
@@ -48,9 +48,9 @@ for data in json_data:
 from pymongo import MongoClient
 
 # Connect to MongoDB
-client = MongoClient('mongodb://localhost:27017/')
-db = client['translations_db']
-collection = db['translations']
+client =  pymongo.MongoClient('mongodb://translationdb:admin123@translationdb.cluster-c782i6gi4sct.ap-south-1.docdb.amazonaws.com:27017/?replicaSet=rs0&readPreference=secondaryPreferred&retryWrites=false')
+db = client['translationdb']
+collection = db['translationdb']
 
 # Insert data into the collection
 for key, value in dump_data.items():

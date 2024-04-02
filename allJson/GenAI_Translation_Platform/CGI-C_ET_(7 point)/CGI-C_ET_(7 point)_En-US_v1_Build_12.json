@@ -1,0 +1,29 @@
+{
+    "CGI-C_ET_(7 point)_En-US_v1_Build_12": [
+        "Protocol",
+        "Site Number",
+        "Screening Number",
+        "Randomization Number",
+        "Assessment Date",
+        "Rater",
+        "Signature History",
+        "Completed and Signed by",
+        "Name",
+        "Date/Time (UTC)",
+        "Edited and Signed by",
+        "Version",
+        "Page2",
+        "Page3",
+        "Clinical Global Impression of Change (CGI-C)",
+        "Much better",
+        "Moderately better",
+        "&nbsp; \nPlease choose the response below that best describes the overall change in the patient's essential tremor symptoms since initial receipt of the study medication. \n&nbsp; \n&nbsp;",
+        "CGI-C Essential Tremor",
+        "A little better",
+        "No change",
+        "A little worse",
+        "Moderately worse",
+        "Much worse",
+        "Notes"
+    ]
+}

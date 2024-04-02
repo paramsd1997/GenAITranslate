@@ -1,0 +1,28 @@
+{
+    "CGI-S_Essential_Tremor_de-DE_v1.0_Build_1_Translation": [
+        "Prüfplan",
+        "Prüfzentrum-Nr.",
+        "Screening-Nr.",
+        "Randomisierungs-Nr.",
+        "Beurteilungsdatum",
+        "Beurteiler",
+        "Unterschriftenverlauf",
+        "Ausgefüllt und unterzeichnet von",
+        "Name",
+        "Datum/Uhrzeit (UTC)",
+        "Bearbeitet und unterzeichnet von",
+        "Version",
+        "Page2",
+        "Page3",
+        "Grad der Funktionsfähigkeit",
+        "Anleitung",
+        "&nbsp; \nBitte w&auml;hlen Sie unten die Antwort aus, die den Grad der Funktionsf&auml;higkeit des Patienten aufgrund des essentiellen Tremors im Verlauf der vergangenen Woche (7&nbsp;Tage) am besten beschreibt. \n&nbsp;",
+        "Keine Einschränkungen",
+        "Leichte Einschränkungen&nbsp;",
+        "Mäßige Einschränkungen&nbsp;",
+        "Deutliche Einschränkungen",
+        "Schwerwiegende Einschränkungen",
+        "SingleChoice1",
+        "Anmerkungen"
+    ]
+}

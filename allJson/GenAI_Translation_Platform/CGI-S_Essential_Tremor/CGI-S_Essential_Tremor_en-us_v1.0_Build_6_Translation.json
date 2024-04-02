@@ -1,0 +1,28 @@
+{
+    "CGI-S_Essential_Tremor_en-us_v1.0_Build_6_Translation": [
+        "Protocol",
+        "Site Number",
+        "Screening Number",
+        "Randomization Number",
+        "Assessment Date",
+        "Rater",
+        "Signature History",
+        "Completed and Signed by",
+        "Name",
+        "Date/Time (UTC)",
+        "Edited and Signed by",
+        "Version",
+        "Page2",
+        "Page3",
+        "Severity of Ability to Function",
+        "Guidelines",
+        "&nbsp; \nPlease select the response below that best describes the severity of the subject's ability to function due to essential tremor over the past week (7 days). \n&nbsp;",
+        "No limitations",
+        "Mild&nbsp;",
+        "Moderate&nbsp;",
+        "Marked",
+        "Severe",
+        "SingleChoice1",
+        "Notes"
+    ]
+}

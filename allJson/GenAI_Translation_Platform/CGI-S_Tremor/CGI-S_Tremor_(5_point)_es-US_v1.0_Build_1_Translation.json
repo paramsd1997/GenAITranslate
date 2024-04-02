@@ -1,0 +1,28 @@
+{
+    "CGI-S_Tremor_(5_point)_es-US_v1.0_Build_1_Translation": [
+        "Protocolo",
+        "Número de centro",
+        "Número de selección",
+        "Número de aleatorización",
+        "Fecha de evaluación",
+        "Evaluador",
+        "Historial de firmas",
+        "Completado y firmado por",
+        "Nombre",
+        "Fecha/hora (UTC)",
+        "Editado y firmado por",
+        "Versión",
+        "Page2",
+        "Page3",
+        "Gravedad de la capacidad para funcionar",
+        "Pautas",
+        "  \nDe las respuestas a continuación, seleccione la que mejor describa la gravedad en la capacidad del participante para funcionar a causa del temblor durante la última semana (7 días). \n ",
+        "Ninguna limitación",
+        "Leve ",
+        "Moderada ",
+        "Marcada",
+        "Significativa",
+        "SingleChoice1",
+        "Notas"
+    ]
+}

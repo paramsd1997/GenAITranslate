@@ -1,0 +1,30 @@
+{
+    "CGI-C_PD_Psychosis_Es-US_v1.0_Build_1_Translation": [
+        "Protocolo",
+        "Número de centro",
+        "Número de selección",
+        "Número de aleatorización",
+        "Fecha de evaluación",
+        "Evaluador",
+        "Historial de firmas",
+        "Completado y firmado por",
+        "Nombre",
+        "Fecha/Hora (UTC)",
+        "Editado y firmado por",
+        "Versión",
+        "Page2",
+        "Page7",
+        "&nbsp; \nConsiderando la condición del paciente al inicio del estudio, ¿cuánto ha cambiado la psicosis del sujeto que le provoca la enfermedad de Parkinson con respecto a las alucinaciones y a las ideas delirantes? \nA su juicio, califique el cambio total independientemente de que este se deba por completo al tratamiento o no. ",
+        "Text1",
+        "Ha mejorado muchísimo",
+        "Ha mejorado mucho",
+        " \nConsiderando la condición del paciente al inicio del estudio, ¿cuánto ha cambiado la psicosis del sujeto que le provoca la enfermedad de Parkinson con respecto a las alucinaciones y a las ideas delirantes? \nA su juicio, califique el cambio total independientemente de que este se deba por completo al tratamiento o no.  ",
+        "(CGI-C PD Psychosis)",
+        "Ha mejorado muy poco",
+        "Sin cambios",
+        "Ha empeorado muy poco",
+        "Ha empeorado mucho",
+        "Ha empeorado muchísimo",
+        "Notas"
+    ]
+}

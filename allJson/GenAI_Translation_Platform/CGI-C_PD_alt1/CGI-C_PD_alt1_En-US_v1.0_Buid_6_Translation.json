@@ -1,0 +1,28 @@
+{
+    "CGI-C_PD_alt1_En-US_v1.0_Buid_6_Translation": [
+        "Protocol",
+        "Site Number",
+        "Screening Number",
+        "Randomization Number",
+        "Assessment Date",
+        "Rater",
+        "Signature History",
+        "Completed and Signed by",
+        "Name",
+        "Date/Time (UTC)",
+        "Edited and Signed by",
+        "Version",
+        "Page2",
+        "Page3",
+        "Very much improved",
+        "Much improved",
+        "&nbsp; \nPlease select the response below that best describes the overall change in the participant's&nbsp;functional&nbsp;status&nbsp;related&nbsp;to Parkinson's&nbsp;disease&nbsp;since&nbsp;the participant started&nbsp;the study&nbsp;medication: \n&nbsp;",
+        "CGI-C",
+        "Minimally improved",
+        "No change",
+        "Minimally worse",
+        "Much worse",
+        "Very much worse",
+        "Notes"
+    ]
+}

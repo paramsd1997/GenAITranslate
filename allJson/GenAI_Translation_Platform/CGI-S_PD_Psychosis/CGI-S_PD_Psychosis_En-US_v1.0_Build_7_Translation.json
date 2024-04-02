@@ -1,0 +1,30 @@
+{
+    "CGI-S_PD_Psychosis_En-US_v1.0_Build_7_Translation": [
+        "Protocol",
+        "Site Number",
+        "Screening Number",
+        "Randomization Number",
+        "Assessment Date",
+        "Rater",
+        "Signature History",
+        "Completed and Signed by",
+        "Name",
+        "Date/Time (UTC)",
+        "Edited and Signed by",
+        "Version",
+        "Page2",
+        "Page7",
+        "&nbsp; \nGiven your total clinical experience with this particular population (patients who have Parkinson's disease), how severely ill is the subject at this time when assessing hallucinations and delusions?",
+        "Text1",
+        "Normal, not at all ill",
+        "Borderline ill",
+        " \nGiven your total clinical experience with this particular population (patients who have Parkinson's disease), how severely ill is the subject at this time when assessing hallucinations and delusions? ",
+        "CGI-S PD Psychosis",
+        "Mildly ill",
+        "Moderately ill",
+        "Markedly ill",
+        "Severely ill",
+        "Among the most extremely ill patients",
+        "Notes"
+    ]
+}

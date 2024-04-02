@@ -2,7 +2,9 @@ import streamlit as st
 import fetchId
 import fetchTranslations
 import sendPrompt
-
+#from chroma_migrate.cli import run_cli
+#from chromadb.api import API
+#from chroma_migrate.import_clickhouse import migrate_from_clickhouse
 # Title for the app
 st.title("Language Translation Tool")
 

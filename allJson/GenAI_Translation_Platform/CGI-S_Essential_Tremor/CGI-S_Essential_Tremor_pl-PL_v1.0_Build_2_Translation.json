@@ -1,0 +1,28 @@
+{
+    "CGI-S_Essential_Tremor_pl-PL_v1.0_Build_2_Translation": [
+        "Protokół",
+        "Numer ośrodka",
+        "Number badania przesiewowego",
+        "Numer randomizacji",
+        "Data oceny",
+        "Osoba oceniająca",
+        "Historia podpisów",
+        "Wypełnione i podpisane przez",
+        "Nazwisko",
+        "Data/godzina (UTC)",
+        "Edytowane i podpisane przez",
+        "Wersja",
+        "Page2",
+        "Page3",
+        "Nasilenie ograniczenia sprawności funkcjonowania",
+        "Wskazówki",
+        "&nbsp; \nProszę wybrać poniżej odpowiedź, która najlepiej opisuje nasilenie ograniczenia sprawności funkcjonowania badanego, związanego z drżeniem samoistnym w ciągu ostatniego tygodnia (7 dni). \n&nbsp;",
+        "Brak ograniczeń",
+        "Łagodne&nbsp;",
+        "Umiarkowane&nbsp;",
+        "Znaczne",
+        "Poważne",
+        "SingleChoice1",
+        "Uwagi"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "CGI-S_Essential_Tremor_es-US_v1.0_Build_1_Translation": [
+        "Protocolo",
+        "Número de centro",
+        "Número de selección",
+        "Número de aleatorización",
+        "Fecha de evaluación",
+        "Evaluador",
+        "Historial de firmas",
+        "Completado y firmado por",
+        "Nombre",
+        "Fecha/hora (UTC)",
+        "Editado y firmado por",
+        "Versión",
+        "Página2",
+        "Página3",
+        "Gravedad de la capacidad para funcionar",
+        "Pautas",
+        "&nbsp; \nDe las respuestas a continuación, seleccione la que mejor describa la gravedad en la capacidad del sujeto para funcionar a causa del temblor esencial durante la última semana (7 días). \n&nbsp;",
+        "Ninguna limitación",
+        "Leve&nbsp;",
+        "Moderada&nbsp;",
+        "Marcada",
+        "Significativa",
+        "SingleChoice1",
+        "Notas"
+    ]
+}

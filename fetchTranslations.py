@@ -2,13 +2,13 @@ from pymongo import MongoClient
 
 def fetch_documents(id,source_lang, target_lang):
     # Create a client connection to your MongoDB instance
-    client = MongoClient('mongodb://localhost:27017/')
+    client =MongoClient('mongodb://translationdb:admin123@translationdb.cluster-c782i6gi4sct.ap-south-1.docdb.amazonaws.com:27017/?replicaSet=rs0&readPreference=secondaryPreferred&retryWrites=false')
 
     # Access the 'translations_db' database
-    db = client['translations_db']
+    db = client['translationdb']
 
     # Access the 'translations' collection
-    collection = db['translations']
+    collection = db['translationdb']
     id = " ".join(id.split('_')).lower()
     # Perform a query to fetch all documents
     documents = collection.find_one({'_id' : id})

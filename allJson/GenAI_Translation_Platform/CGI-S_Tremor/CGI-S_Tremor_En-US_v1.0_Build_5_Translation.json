@@ -1,0 +1,28 @@
+{
+    "CGI-S_Tremor_En-US_v1.0_Build_5_Translation": [
+        "Protocol",
+        "Site Number",
+        "Screening Number",
+        "Randomization Number",
+        "Assessment Date",
+        "Rater",
+        "Signature History",
+        "Completed and Signed by",
+        "Name",
+        "Date/Time (UTC)",
+        "Edited and Signed by",
+        "Version",
+        "Page2",
+        "Page3",
+        "Severity of Ability to Function",
+        "Guidelines",
+        "&nbsp; \nPlease select the response below that best describes the severity of the participant's ability to function due to tremor over the past week (7 days). \n&nbsp;",
+        "No limitations",
+        "Mild&nbsp;",
+        "Moderate&nbsp;",
+        "Marked",
+        "Severe",
+        "SingleChoice1",
+        "Notes"
+    ]
+}

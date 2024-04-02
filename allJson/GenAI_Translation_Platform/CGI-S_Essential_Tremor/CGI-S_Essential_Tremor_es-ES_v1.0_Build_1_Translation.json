@@ -1,0 +1,28 @@
+{
+    "CGI-S_Essential_Tremor_es-ES_v1.0_Build_1_Translation": [
+        "Protocolo",
+        "Número de centro",
+        "Número de selección",
+        "Número de aleatorización",
+        "Fecha de evaluación",
+        "Calificador",
+        "Historial de firmas",
+        "Completado y firmado por",
+        "Nombre",
+        "Fecha y hora (UTC)",
+        "Editado y firmado por",
+        "Versión",
+        "Page2",
+        "Page3",
+        "Grado de afectación de la capacidad de funcionamiento",
+        "Directrices",
+        "&nbsp; \nA continuación, seleccione la respuesta que mejor describa el grado en el que la capacidad de funcionamiento del paciente se ha visto afectada debido al temblor esencial durante la última semana (7 días). \n&nbsp;",
+        "Ninguna limitación",
+        "Leve&nbsp;",
+        "Moderado&nbsp;",
+        "Notable",
+        "Severo",
+        "SingleChoice1",
+        "Notas"
+    ]
+}

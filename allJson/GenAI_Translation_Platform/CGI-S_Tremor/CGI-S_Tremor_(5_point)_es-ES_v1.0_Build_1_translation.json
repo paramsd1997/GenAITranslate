@@ -1,0 +1,28 @@
+{
+    "CGI-S_Tremor_(5_point)_es-ES_v1.0_Build_1_translation": [
+        "Protocolo",
+        "Número de centro",
+        "Número de selección",
+        "Número de aleatorización",
+        "Fecha de evaluación",
+        "Evaluador",
+        "Historial de firmas",
+        "Completado y firmado por",
+        "Nombre",
+        "Fecha/hora (UTC)",
+        "Editado y firmado por",
+        "Versión",
+        "Page2",
+        "Page3",
+        "Grado de afectación de la capacidad funcional",
+        "Directrices",
+        "  \nA continuación, elija la respuesta que mejor describa el grado en el que la capacidad de funcionamiento del participante se ha visto afectada debido al temblor durante la última semana (7 días). \n ",
+        "Ninguna limitación",
+        "Leve ",
+        "Moderado ",
+        "Notable",
+        "Severo",
+        "SingleChoice1",
+        "Notas"
+    ]
+}

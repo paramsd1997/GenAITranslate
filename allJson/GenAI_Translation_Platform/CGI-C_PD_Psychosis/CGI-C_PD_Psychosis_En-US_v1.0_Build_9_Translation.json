@@ -1,0 +1,30 @@
+{
+    "CGI-C_PD_Psychosis_En-US_v1.0_Build_9_Translation": [
+        "Protocol",
+        "Site Number",
+        "Screening Number",
+        "Randomization Number",
+        "Assessment Date",
+        "Rater",
+        "Signature History",
+        "Completed and Signed by",
+        "Name",
+        "Date/Time (UTC)",
+        "Edited and Signed by",
+        "Version",
+        "Page2",
+        "Page7",
+        "&nbsp; \nCompared to the patient&rsquo;s condition at baseline, how much has the subject's psychosis related to Parkinson's disease changed with regard to hallucinations and delusions? \nRate total change whether or not, in your judgment, it is due entirely to treatment.",
+        "Text1",
+        "Very much improved",
+        "Much improved",
+        " \nCompared to the patient&rsquo;s condition at baseline, how much has the subject's psychosis related to Parkinson's disease changed with regard to hallucinations and delusions? \nRate total change whether or not, in your judgment, it is due entirely to treatment. ",
+        "CGI-C PD Psychosis",
+        "Minimally improved",
+        "No change",
+        "Minimally worse",
+        "Much worse",
+        "Very much worse",
+        "Notes"
+    ]
+}
