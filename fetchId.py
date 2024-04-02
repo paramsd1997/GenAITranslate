@@ -18,11 +18,11 @@ def fetch_id(xml_input):
     # # Define the Chroma settings
     CHROMA_SETTINGS = Settings(
             chroma_db_impl='duckdb+parquet',
-            persist_directory='dbm',
+            persist_directory='db',
             anonymized_telemetry=False
     )
     db = Chroma(
-            persist_directory='dbm',
+            persist_directory='db',
             embedding_function=embeddings,
             client_settings=CHROMA_SETTINGS,
         )
